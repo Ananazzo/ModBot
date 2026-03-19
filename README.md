@@ -4,6 +4,8 @@
 
 ModBot is a Discord moderation bot built with Python. It provides various moderation features like warning users, kicking users, and more.
 
+## Currently highly wip as i dont have time to work on it currently, will likely finish at somepoint
+
 ## Requirements
 
 - Python 3.6 or higher
